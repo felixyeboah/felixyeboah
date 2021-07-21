@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything related to VueJS, React, Go and Django
 - 📫 How to reach me: ... [Twitter](https://twitter.com/sudocode_), [Portfolio Website](https://felixyeboah.dev)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am Jovial
+- ⚡ Fun fact: ... I am Jovial and always available to help
 
