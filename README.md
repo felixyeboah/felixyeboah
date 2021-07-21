@@ -12,7 +12,7 @@ A self-taught Full-Stack Web & Mobile Developer and UI/UX Designer from Accra, G
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Complete Farmer Buyer Dashboard
-- 🌱 I’m currently learning ... Flutter and React Native and also upgrading on my React Skills
+- 🌱 I’m currently learning ... Advancing in Golang and also upgrading on my development Skills
 - 👯 I’m looking to collaborate on ... Any Mobile or Full Stack Web development with Swift UI, React, Go and Django
 - 🤔 I’m looking for help with ... Redux
 - 💬 Ask me about ... Anything related to VueJS, React, Go and Django
