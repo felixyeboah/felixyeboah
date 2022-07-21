@@ -3,9 +3,9 @@
 ### Hi there 👋
 
 ## My name is Felix Yeboah - Jefferson
-A self-taught Full-Stack Web & Mobile Developer and UI/UX Designer from Accra, Ghana. I am super passionate about design, development, traveling, and a fanatic of all things digital. I have been very fortunate to be able to do all as a career.
+A self-taught Software Engineer and UI/UX Designer from Accra, Ghana. I write code to solve problems.
 
-### I consider myself as a learner, a life-long learner.
+I consider myself a learner, a life-long learner and I like to turn great designs into meaningful and intuitive interfaces that are simple and easy to use and can improve people's lives
 
 ### Technical stack
 
