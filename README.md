@@ -5,7 +5,7 @@
 ## My name is Felix Yeboah - Jefferson
 A self-taught Software Engineer and UI/UX Designer from Accra, Ghana. I write code to solve problems.
 
-I consider myself a learner, a life-long learner and I like to turn great designs into meaningful and intuitive interfaces that are simple and easy to use and can improve people's lives
+I consider myself a learner, a life-long learner. I like to turn great designs into meaningful and intuitive interfaces that are simple and easy to use and can improve people's lives
 
 ### Technical stack
 
