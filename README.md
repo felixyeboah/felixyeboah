@@ -1,5 +1,3 @@
-![Banner](https://i.imgur.com/gGydeDF.jpg)
-
 ## 👋 Hi, I’m Felix Yeboah-Jefferson
 
 I’m a **full-stack software engineer & product builder** based in **Accra, Ghana**.  
