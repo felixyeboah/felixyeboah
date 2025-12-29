@@ -11,7 +11,7 @@ A self-taught engineer and lifelong learner, I enjoy turning thoughtful designs 
 
 ## 🚀 What I’m Building
 
-- **Founder of Reevit.io** — a unified API for payments, billing, and business workflows  
+- **Founder of [Reevit](https://reevit.io)** — a unified API for payments, billing, and business workflows  
 - Building tools that reduce integration friction and help businesses scale faster  
 - Occasionally working with teams to build internal tools and production-ready systems
 
