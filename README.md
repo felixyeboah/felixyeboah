@@ -4,4 +4,4 @@
 - **Founder of [Reevit](https://reevit.io)** — a unified API for payments, billing, and workflows  
 - Obsessed with **clean APIs**, **simple systems**, and **long-term growth**  
 - **Stack:** React, Go, PostgreSQL, Redis, Docker  
-- 📍 Building in **Ghana**
+- 📍 Building in **Ghana** 🇬🇭
