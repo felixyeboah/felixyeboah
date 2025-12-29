@@ -21,16 +21,16 @@ A self-taught engineer and lifelong learner, I enjoy turning thoughtful designs 
 
 **Frontend**
 - JavaScript · TypeScript · React · Next.js  
-- Tailwind CSS · Chakra UI · Material UI · styled-components  
+- Tailwind CSS · ShadCN  
 
 **Backend & Infra**
-- Go · Node.js · Express  
-- PostgreSQL · Redis · Firebase  
-- Docker · Google Cloud  
+- Go · Node.js · Python  
+- PostgreSQL · Redis
+- Docker 
 
 **APIs & Tooling**
-- REST · GraphQL · Apollo  
-- Jest · Cypress · Postman  
+- REST ·  tRPC · gRPC
+- Vitest · PlayWright · Postman  
 
 ---
 
